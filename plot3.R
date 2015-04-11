@@ -1,4 +1,4 @@
-require(dplyr)
+
 
 #the if statement evaluates if "subtable" exists, and if not, it reads the data in from the .txt file, 
 #converting the Data/Time columns to POSIXlt, and subsets on the days "2007/02/02" and "2007/02/01"

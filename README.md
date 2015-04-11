@@ -1,5 +1,5 @@
 Make sure to unzip the data into the working directory. The file should be named "household_power_consumption.txt".
-
+Run each .R scrpit to generate the four plots.
 
 
 
